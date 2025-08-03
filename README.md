@@ -66,5 +66,3 @@ Explore the dashboard's interactive pages and their powerful visualizations:
 * ▶️ **[E-commerce Dashboard Overview](https://github.com/shivanisyal09/E-commerce-Sales-Performance-Hub/blob/main/E-commerce%20Sales%20Performance.png)**
 
 ---
-
-**Just to confirm:** Is the screenshot I previously misidentified (`Screenshot 2025-08-03 135330.jpg`) also part of this E-commerce dashboard, or does it belong to a different project altogether? Clarifying this will help avoid any future confusion.
